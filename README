@@ -4,7 +4,7 @@
     current version:     1.0.0-b6
     by:                  Rikard Johansson
 
-    Simple hashmap written in c using void pointer and callback functions.
+    Simple hashmap written in c using void pointers and callback functions.
 
 --------------------------------------------------------------------------------
 
